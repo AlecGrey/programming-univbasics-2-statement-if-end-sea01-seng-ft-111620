@@ -1,4 +1,5 @@
 current_time = Time.now
 current_time.to_i
 
-if current_time.odd?
+current_time.odd? ? "Odd!" : "Even!"
+
