@@ -3,4 +3,4 @@ current_time = current_time.to_i
 
 puts current_time.class
 
-# puts current_time.even?
+puts current_time.even?
